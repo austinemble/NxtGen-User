@@ -216,7 +216,7 @@ const Header = (props) => {
           <a style={{ marginTop: "-10px" }}>
             <span className="exploreText">Explore</span>
             <span className="plusText">Plus</span>
-            <img src={goldenStar} className="goldenStar" alt="" />
+            {/* <img src={goldenStar} className="goldenStar" alt="" /> */}
           </a>
         </div>
         {/* logo ends here */}
